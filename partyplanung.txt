@@ -3,4 +3,4 @@ Spiele: Activity,
 Trinken: Cola
 Snacks: Chips
 Musik: Rock, Pop, EDM
-Essen: Pizza
+Essen: Pizza, Chips und Nuesse
