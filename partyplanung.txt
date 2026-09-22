@@ -2,3 +2,4 @@ TODO
 Spiele: Activity,
 Trinken: Cola
 Snacks: Chips
+Musik: Rock, Pop, EDM
